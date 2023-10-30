@@ -1,0 +1,48 @@
+
+
+h1{
+    margin-left: 20%;
+    padding-top: 20%;
+
+}
+ .text{
+    margin-left: 20%;
+}
+.button{
+    padding-left: 20%;
+}
+.top{
+    height: 100vh;
+    background-color: #FF6B81;
+}
+.box1{
+    text-align: center;
+    
+}
+.row{
+    --bs-gutter-x: 0 !important;
+}
+.icons{
+    background-color: #FF6B81;
+    border: none;
+    color: #fff;
+}
+
+.para{
+    background-color:#FFDFDF;
+}
+.last{
+    background-color: #081828;
+}
+.content{
+  background-color:#FF6B81 ;  
+}
+
+
+@media screen and (max-width:1000px) {
+    .photo{
+        display: none;
+    }
+    
+}
+
